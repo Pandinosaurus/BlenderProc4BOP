@@ -51,9 +51,9 @@ First make sure that you have downloaded a [BOP dataset](https://bop.felk.cvut.c
 
 We provide three example configs that interface with the BOP datasets.
 
-* [bop_scene_replication](bop_scene_replication): Replicates whole scenes (object poses, camera intrinsics and extrinsics) from BOP
-* [bop_object_pose_sampling](bop_object_pose_sampling): Loads BOP objects and samples object, camera and light poses
-* [bop_object_physics_positioning](bop_object_physics_positioning): BOP objects pose sampling and physics animation.
+* [bop_scene_replication](examples/bop_scene_replication): Replicates whole scenes (object poses, camera intrinsics and extrinsics) from BOP
+* [bop_object_pose_sampling](examples/bop_object_pose_sampling): Loads BOP objects and samples object, camera and light poses
+* [bop_object_physics_positioning](examples/bop_object_physics_positioning): BOP objects pose sampling and physics animation.
 
 ## Customize and write new modules
 
